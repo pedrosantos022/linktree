@@ -54,15 +54,15 @@ body{
             color: black;
             border: none;
             border-radius: 15px;
-        }
+        
 
 
-        &:houver{
-            cursor: pointer;
-            background-color: black;
-            border: 1px solid white;
-            color: white;
-                    
+            &:hover{
+                cursor: pointer;
+                background-color: black;
+                border: 1px solid white;
+                color: white;
+            }        
         }    
     }
 
